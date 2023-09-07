@@ -1,0 +1,22 @@
+{
+  "name": "sanbercode-cypress",
+  "version": "1.0.0",
+  "description": "Tugas Pekan 2 - Cypress Automation Testing dari web https://katalon-demo-cura.herokuapp.com/",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cyubimanyo/sanbercode-cypress.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cyubimanyo/sanbercode-cypress/issues"
+  },
+  "homepage": "https://github.com/cyubimanyo/sanbercode-cypress#readme",
+  "devDependencies": {
+    "cypress": "^13.1.0"
+  }
+}
