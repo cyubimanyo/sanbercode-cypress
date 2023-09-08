@@ -1,7 +1,8 @@
-describe('template spec', () => {
+describe('Login Test Cases', () => {
   beforeEach(() => {
     cy.visit('/')
   })
+  
   it('Login Success', () => {
     cy.get('#btn-make-appointment').click()
     cy.get('#txt-username').type('John Doe')
