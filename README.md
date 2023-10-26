@@ -1,2 +1,2 @@
 # sanbercode-cypress
-Tugas Pekan 2 - Cypress Automation Testing dari web https://katalon-demo-cura.herokuapp.com/ (September 2023)
+Exercise Week 2 - Cypress Automation Testing from web https://katalon-demo-cura.herokuapp.com/ (September 2023)
